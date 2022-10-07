@@ -22,6 +22,7 @@ header{
 }
 .content-text{
     color: antiquewhite;
+    font-size: x-large;
 }
 .logo{
     color: antiquewhite;
@@ -35,8 +36,42 @@ header{
 }
 .p, .title{
     color: antiquewhite;
+    font-size: 120px;
 }
 footer{
     color: antiquewhite;
     background-color: #423636;
+}
+
+.coding{
+    background-image: url("../media/arnold-francisca-3uA-fTfb3Es-unsplash.png");
+    height: 500px;
+    width: 1970px;
+}
+.social-link{
+    background-color: #423636;
+    color: antiquewhite;
+}
+.mid-header{
+    width: 2140px;
+    padding: 17px 0;
+}
+span{
+    color: antiquewhite;
+    font-size: xx-large;
+}
+.mail-text{
+    font-size: 200px;
+}
+.jace-Headshot{
+    max-height: 120px;
+    max-width: 100px;
+}
+.content-hero-img{
+    height: 150px;
+    width: 300px;
+}
+.section1-img{
+    width: 2000px;
+    height: 500px;
 }
